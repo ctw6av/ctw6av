@@ -9,7 +9,7 @@
 
 - 👯 Projetos que participei [Sorteio.com](https://sorteio.com/)
 
-- 👨‍💻 Alguns dos meus projetos de código aberto estão disponíveis em [https://github.com/jeffersson-abreu](https://github.com/jeffersson-abreu)
+- 👨‍💻 Alguns dos meus projetos de código aberto estão disponíveis no [Github](https://github.com/jeffersson-abreu)
 
 - 📝 Eu regularmente escrevo artigos no Vol [https://www.vivaolinux.com.br/](https://www.vivaolinux.com.br/)
 
